@@ -27,7 +27,7 @@ public class AdminController
 	private UserService userService;
     @Autowired
 	private ProductService productService;
-    
+    public String tharun;
     private String email;
     private User user;
     
